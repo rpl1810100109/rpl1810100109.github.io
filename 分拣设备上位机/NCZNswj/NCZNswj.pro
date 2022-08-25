@@ -16,6 +16,7 @@ DEFINES += QT_DEPRECATED_WARNINGS
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
+    datebase.cpp \
     datedeal.cpp \
     dealwithdate.cpp \
     main.cpp \
@@ -23,12 +24,14 @@ SOURCES += \
     mytcp.cpp
 
 HEADERS += \
+    datebase.h \
     datedeal.h \
     dealwithdate.h \
     mainwindow.h \
     mytcp.h
 
 FORMS += \
+    datebase.ui \
     datedeal.ui \
     mainwindow.ui
 

@@ -10,7 +10,7 @@ DealWithDate::DealWithDate(QWidget *parent,QTcpSocket* msocket)
 
 
 }
-
+    
 void DealWithDate::run()
 {
     //在run函数中绑定各种信号

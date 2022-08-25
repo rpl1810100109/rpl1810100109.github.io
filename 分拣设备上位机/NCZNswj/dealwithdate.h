@@ -6,6 +6,7 @@
 #include<QThreadPool>
 #include<mytcp.h>
 #include<QTcpSocket>
+#include<datebase.h>
 
 #include <QDebug>
 #include <QSqlDatabase>
@@ -13,11 +14,11 @@
 #include <QSqlError>
 #include <QSqlQuery>
 
-class DealWithDate : public QObject,public QRunnable
+class DealWithDate : public DateBase,public QRunnable,public MyTCP
 {
     Q_OBJECT
 public:
-    explicit DealWithDate(QObject *parent = nullptr,QTcpSocket *msocket=nullptr);
+    explicit DealWithDate(QWidget *parent= nullptr,QTcpSocket *msocket=nullptr);
 
 signals:
 

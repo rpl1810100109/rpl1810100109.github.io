@@ -7,15 +7,15 @@
 #include<QTcpServer>
 #include <QString>
 #include<QVector>
-class MyTCP : public QObject
+class MyTCP
 {
-    Q_OBJECT
 public:
-    explicit MyTCP(QObject *parent = nullptr,QTcpSocket* _mSocket= nullptr); //构造函数
+    explicit MyTCP(QTcpSocket* _mSocket= nullptr); //构造函数
     ~MyTCP();                                   //析构函数
 
 signals:
     void sigDate(QByteArray date,QString ip,qint16 port);
+    void PleaseDeal(QByteArray buffer);
 
 public:
 

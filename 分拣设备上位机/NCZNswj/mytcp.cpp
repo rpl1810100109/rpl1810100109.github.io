@@ -1,7 +1,7 @@
 #include "mytcp.h"
 #include<QTimer>
 
-MyTCP::MyTCP(QObject *parent,QTcpSocket* _mSocket) : QObject(parent)
+MyTCP::MyTCP(QTcpSocket* _mSocket)
 {
    mSocket = _mSocket;
 
@@ -49,8 +49,9 @@ MyTCP::~MyTCP()
 //}
 QByteArray MyTCP::RcvDate()
 {
-
-    return mSocket->readAll();
+    QByteArray buf =  mSocket->readAll();
+    PleaseDeal(buf);//发信号告诉程序去处理接受缓冲区的内容
+    return buf;
 
 }
 
