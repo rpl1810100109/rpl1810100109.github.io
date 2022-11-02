@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<MThings>
+	<PORT_LIST>
+		<COM Name="COM4" Remarks="" Baund="9600" Parity="0" StopBit="0" DataBit="0" FlowCtrl="0" TransMode="0" CharType="0" BreakTime="10" />
+		<COM Name="COM9" Remarks="" Baund="9600" Parity="0" StopBit="0" DataBit="0" FlowCtrl="0" TransMode="0" CharType="0" BreakTime="10" />
+	</PORT_LIST>
+	<DEVICE_LIST>
+		<DEVICE Name="Inverter" PortName="COM4" DeviceType="1" Addr="1" ForwardZero="0" AddrUIMode="0" CRCByteOder="1" AddrOffset="0" PackWay="1" BitGap="0" RegGap="5" OneReg10="0" OneCoil0F="0" BCast1="0" BCast2="0" IsBCDevice="0" BathReadMode="0" BathWriteMode="0">
+			<DATA_LIST>
+				<DATA Name="Command Source" BLOCK="2" PrtcTYPE="1" Unit="--" ShowType="0" Addr="7" Gain="1" Size="1" BitOffset="0" BitNum="16" Range="--" Color="#ffff00" ByteOder="0" WordOder="0" IntervalTime="0" IsShow="1" IsBRead="1" IsBWrite="0">
+					<TIMEOUT Time="2000" ResendCount="0" />
+					<CURVE IsShow="0" />
+					<VALUE Stategy="0" TimeBngrWay="0" Coef_a="0" Coef_b="0" Coef_c="0" Coef_d="0" Coef_e="0" ResetStep="0" XInvl="1000" MaxRadom="0" MinRadom="0" MaxValue="0" MinValue="0" />
+				</DATA>
+				<DATA Name="Speed Source" BLOCK="2" PrtcTYPE="1" Unit="--" ShowType="0" Addr="13" Gain="1" Size="1" BitOffset="0" BitNum="16" Range="--" Color="#ffff00" ByteOder="0" WordOder="0" IntervalTime="0" IsShow="1" IsBRead="1" IsBWrite="0">
+					<TIMEOUT Time="2000" ResendCount="0" />
+					<CURVE IsShow="0" />
+					<VALUE Stategy="0" TimeBngrWay="0" Coef_a="0" Coef_b="0" Coef_c="0" Coef_d="0" Coef_e="0" ResetStep="0" XInvl="1000" MaxRadom="0" MinRadom="0" MaxValue="0" MinValue="0" />
+				</DATA>
+				<DATA Name="Control commands" BLOCK="2" PrtcTYPE="1" Unit="--" ShowType="0" Addr="28672" Gain="1" Size="1" BitOffset="0" BitNum="16" Range="--" Color="#00ff00" ByteOder="0" WordOder="0" IntervalTime="0" IsShow="1" IsBRead="1" IsBWrite="0">
+					<TIMEOUT Time="2000" ResendCount="0" />
+					<CURVE IsShow="0" />
+					<VALUE Stategy="0" TimeBngrWay="0" Coef_a="0" Coef_b="0" Coef_c="0" Coef_d="0" Coef_e="0" ResetStep="0" XInvl="1000" MaxRadom="0" MinRadom="0" MaxValue="0" MinValue="0" />
+				</DATA>
+				<DATA Name="Setting Speed" BLOCK="2" PrtcTYPE="1" Unit="m/s" ShowType="0" Addr="28674" Gain="0.001" Size="1" BitOffset="0" BitNum="16" Range="--" Color="#00ff00" ByteOder="0" WordOder="0" IntervalTime="0" IsShow="1" IsBRead="1" IsBWrite="0">
+					<TIMEOUT Time="2000" ResendCount="0" />
+					<CURVE IsShow="0" />
+					<VALUE Stategy="0" TimeBngrWay="0" Coef_a="0" Coef_b="0" Coef_c="0" Coef_d="0" Coef_e="0" ResetStep="0" XInvl="1000" MaxRadom="0" MinRadom="0" MaxValue="0" MinValue="0" />
+				</DATA>
+				<DATA Name="Torque Setting" BLOCK="2" PrtcTYPE="1" Unit="%" ShowType="0" Addr="28678" Gain="0.10000000000000001" Size="1" BitOffset="0" BitNum="16" Range="--" Color="#00ff00" ByteOder="0" WordOder="0" IntervalTime="0" IsShow="1" IsBRead="1" IsBWrite="0">
+					<TIMEOUT Time="2000" ResendCount="0" />
+					<CURVE IsShow="0" />
+					<VALUE Stategy="0" TimeBngrWay="0" Coef_a="0" Coef_b="0" Coef_c="0" Coef_d="0" Coef_e="0" ResetStep="0" XInvl="1000" MaxRadom="0" MinRadom="0" MaxValue="0" MinValue="0" />
+				</DATA>
+				<DATA Name="State" BLOCK="2" PrtcTYPE="1" Unit="--" ShowType="0" Addr="28928" Gain="1" Size="1" BitOffset="0" BitNum="16" Range="--" Color="#00aaff" ByteOder="0" WordOder="0" IntervalTime="0" IsShow="1" IsBRead="1" IsBWrite="0">
+					<TIMEOUT Time="2000" ResendCount="0" />
+					<CURVE IsShow="0" />
+					<VALUE Stategy="0" TimeBngrWay="0" Coef_a="0" Coef_b="0" Coef_c="0" Coef_d="0" Coef_e="0" ResetStep="0" XInvl="1000" MaxRadom="0" MinRadom="0" MaxValue="0" MinValue="0" />
+				</DATA>
+				<DATA Name="ErrorCode" BLOCK="2" PrtcTYPE="1" Unit="--" ShowType="0" Addr="28929" Gain="1" Size="1" BitOffset="0" BitNum="16" Range="--" Color="#00aaff" ByteOder="0" WordOder="0" IntervalTime="0" IsShow="1" IsBRead="1" IsBWrite="0">
+					<TIMEOUT Time="2000" ResendCount="0" />
+					<CURVE IsShow="0" />
+					<VALUE Stategy="0" TimeBngrWay="0" Coef_a="0" Coef_b="0" Coef_c="0" Coef_d="0" Coef_e="0" ResetStep="0" XInvl="1000" MaxRadom="0" MinRadom="0" MaxValue="0" MinValue="0" />
+				</DATA>
+				<DATA Name="Setting Speed" BLOCK="2" PrtcTYPE="1" Unit="m/s" ShowType="0" Addr="28930" Gain="0.001" Size="1" BitOffset="0" BitNum="16" Range="--" Color="#00aaff" ByteOder="0" WordOder="0" IntervalTime="0" IsShow="1" IsBRead="1" IsBWrite="0">
+					<TIMEOUT Time="2000" ResendCount="0" />
+					<CURVE IsShow="0" />
+					<VALUE Stategy="0" TimeBngrWay="0" Coef_a="0" Coef_b="0" Coef_c="0" Coef_d="0" Coef_e="0" ResetStep="0" XInvl="1000" MaxRadom="0" MinRadom="0" MaxValue="0" MinValue="0" />
+				</DATA>
+				<DATA Name="Runing Speed" BLOCK="2" PrtcTYPE="1" Unit="m/s" ShowType="0" Addr="28931" Gain="0.001" Size="1" BitOffset="0" BitNum="16" Range="--" Color="#00aaff" ByteOder="0" WordOder="0" IntervalTime="0" IsShow="1" IsBRead="1" IsBWrite="0">
+					<TIMEOUT Time="2000" ResendCount="0" />
+					<CURVE IsShow="0" />
+					<VALUE Stategy="0" TimeBngrWay="0" Coef_a="0" Coef_b="0" Coef_c="0" Coef_d="0" Coef_e="0" ResetStep="0" XInvl="1000" MaxRadom="0" MinRadom="0" MaxValue="0" MinValue="0" />
+				</DATA>
+				<DATA Name="DC Voltage" BLOCK="2" PrtcTYPE="1" Unit="V" ShowType="0" Addr="28932" Gain="1" Size="1" BitOffset="0" BitNum="16" Range="--" Color="#00aaff" ByteOder="0" WordOder="0" IntervalTime="0" IsShow="1" IsBRead="1" IsBWrite="0">
+					<TIMEOUT Time="2000" ResendCount="0" />
+					<CURVE IsShow="0" />
+					<VALUE Stategy="0" TimeBngrWay="0" Coef_a="0" Coef_b="0" Coef_c="0" Coef_d="0" Coef_e="0" ResetStep="0" XInvl="1000" MaxRadom="0" MinRadom="0" MaxValue="0" MinValue="0" />
+				</DATA>
+				<DATA Name="Output Voltage" BLOCK="2" PrtcTYPE="1" Unit="V" ShowType="0" Addr="28933" Gain="1" Size="1" BitOffset="0" BitNum="16" Range="--" Color="#00aaff" ByteOder="0" WordOder="0" IntervalTime="0" IsShow="1" IsBRead="1" IsBWrite="0">
+					<TIMEOUT Time="2000" ResendCount="0" />
+					<CURVE IsShow="0" />
+					<VALUE Stategy="0" TimeBngrWay="0" Coef_a="0" Coef_b="0" Coef_c="0" Coef_d="0" Coef_e="0" ResetStep="0" XInvl="1000" MaxRadom="0" MinRadom="0" MaxValue="0" MinValue="0" />
+				</DATA>
+				<DATA Name="Output Current" BLOCK="2" PrtcTYPE="1" Unit="A" ShowType="0" Addr="28934" Gain="0.10000000000000001" Size="1" BitOffset="0" BitNum="16" Range="--" Color="#00aaff" ByteOder="0" WordOder="0" IntervalTime="0" IsShow="1" IsBRead="1" IsBWrite="0">
+					<TIMEOUT Time="2000" ResendCount="0" />
+					<CURVE IsShow="0" />
+					<VALUE Stategy="0" TimeBngrWay="0" Coef_a="0" Coef_b="0" Coef_c="0" Coef_d="0" Coef_e="0" ResetStep="0" XInvl="1000" MaxRadom="0" MinRadom="0" MaxValue="0" MinValue="0" />
+				</DATA>
+				<DATA Name="Output Power" BLOCK="2" PrtcTYPE="1" Unit="W" ShowType="0" Addr="28935" Gain="0.10000000000000001" Size="1" BitOffset="0" BitNum="16" Range="--" Color="#00aaff" ByteOder="0" WordOder="0" IntervalTime="0" IsShow="1" IsBRead="1" IsBWrite="0">
+					<TIMEOUT Time="2000" ResendCount="0" />
+					<CURVE IsShow="0" />
+					<VALUE Stategy="0" TimeBngrWay="0" Coef_a="0" Coef_b="0" Coef_c="0" Coef_d="0" Coef_e="0" ResetStep="0" XInvl="1000" MaxRadom="0" MinRadom="0" MaxValue="0" MinValue="0" />
+				</DATA>
+				<DATA Name="Output Speed" BLOCK="2" PrtcTYPE="1" Unit="m/s" ShowType="0" Addr="28936" Gain="0.001" Size="1" BitOffset="0" BitNum="16" Range="--" Color="#00aaff" ByteOder="0" WordOder="0" IntervalTime="0" IsShow="1" IsBRead="1" IsBWrite="0">
+					<TIMEOUT Time="2000" ResendCount="0" />
+					<CURVE IsShow="0" />
+					<VALUE Stategy="0" TimeBngrWay="0" Coef_a="0" Coef_b="0" Coef_c="0" Coef_d="0" Coef_e="0" ResetStep="0" XInvl="1000" MaxRadom="0" MinRadom="0" MaxValue="0" MinValue="0" />
+				</DATA>
+				<DATA Name="Output Torque" BLOCK="2" PrtcTYPE="1" Unit="%" ShowType="0" Addr="28937" Gain="0.10000000000000001" Size="1" BitOffset="0" BitNum="16" Range="--" Color="#00aaff" ByteOder="0" WordOder="0" IntervalTime="0" IsShow="1" IsBRead="1" IsBWrite="0">
+					<TIMEOUT Time="2000" ResendCount="0" />
+					<CURVE IsShow="0" />
+					<VALUE Stategy="0" TimeBngrWay="0" Coef_a="0" Coef_b="0" Coef_c="0" Coef_d="0" Coef_e="0" ResetStep="0" XInvl="1000" MaxRadom="0" MinRadom="0" MaxValue="0" MinValue="0" />
+				</DATA>
+				<DATA Name=" Inverter Temperature" BLOCK="2" PrtcTYPE="1" Unit="℃" ShowType="0" Addr="28938" Gain="0.10000000000000001" Size="1" BitOffset="0" BitNum="16" Range="--" Color="#00aaff" ByteOder="0" WordOder="0" IntervalTime="0" IsShow="1" IsBRead="1" IsBWrite="0">
+					<TIMEOUT Time="2000" ResendCount="0" />
+					<CURVE IsShow="0" />
+					<VALUE Stategy="0" TimeBngrWay="0" Coef_a="0" Coef_b="0" Coef_c="0" Coef_d="0" Coef_e="0" ResetStep="0" XInvl="1000" MaxRadom="0" MinRadom="0" MaxValue="0" MinValue="0" />
+				</DATA>
+			</DATA_LIST>
+		</DEVICE>
+	</DEVICE_LIST>
+</MThings>

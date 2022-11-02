@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<MThings>
+	<PORT_LIST>
+		<COM Name="COM5" Remarks="" Baund="115200" Parity="0" StopBit="0" DataBit="0" FlowCtrl="0" TransMode="0" CharType="0" BreakTime="10" />
+	</PORT_LIST>
+	<DEVICE_LIST />
+</MThings>

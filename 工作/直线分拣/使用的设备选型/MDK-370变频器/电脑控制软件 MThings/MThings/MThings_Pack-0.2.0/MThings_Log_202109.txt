@@ -1,0 +1,194 @@
+2021-09-08 17:12:42 \main.cpp:114 :: Codec For Locale:  "GB18030"
+2021-09-08 17:12:42 \cdlgmainwidget.cpp:29 :: Launch APP! "MThings   V0.2.0" "2020-11-09 09:26:18" "COMPUTERNAME=T14"
+2021-09-08 17:12:44 \cdlgmainwidget.cpp:186 :: "Import Cfg File XML:D:\\SCIYON\\Modbus软件\\MThings\\MThings_Pack-0.2.0\\第二台电机参数设置.mthings" "OK"
+2021-09-08 17:12:44 \cportmgr.cpp:185 :: Creat New Port By Reg: "COM5"
+2021-09-08 17:12:44 \cdevicebase.cpp:35 :: "New Device Obj:[M]COM5-001" "COM5"
+2021-09-08 17:12:44 \cport_base.cpp:22 :: "New Port Obj:COM5" 0
+2021-09-08 17:12:44 \cport_com.cpp:59 :: "Port Open Failed by Invalid Port:COM5"
+2021-09-08 17:12:44 \cdlgmainwidget.cpp:205 :: "Import Cfg File OK:D:\\SCIYON\\Modbus软件\\MThings\\MThings_Pack-0.2.0\\第二台电机参数设置.mthings"
+2021-09-08 17:12:59 \cdlgmainwidget.cpp:436 :: Exiting APP...
+2021-09-08 17:12:59 \cport_base.cpp:27 :: "Del Port Obj:COM5"
+2021-09-08 17:12:59 \cportthread.cpp:108 :: "Port Thread Exit:COM5"
+2021-09-08 17:12:59 \cportmgr.cpp:295 :: Del Port By Unreg: "COM5"
+2021-09-08 17:12:59 \cdevicebase.cpp:41 :: "Release Device Obj:[M]COM5-001" "COM5"
+2021-09-08 17:12:59 \cdlgmainwidget.cpp:440 :: Exit APP!
+2021-09-24 11:46:34 \main.cpp:114 :: Codec For Locale:  "GB18030"
+2021-09-24 11:46:34 \main.cpp:114 :: Codec For Locale:  "GB18030"
+2021-09-24 11:46:34 \cdlgmainwidget.cpp:29 :: Launch APP! "MThings   V0.2.0" "2020-11-09 09:26:18" "COMPUTERNAME=T14"
+2021-09-24 11:46:34 \cdlgmainwidget.cpp:29 :: Launch APP! "MThings   V0.2.0" "2020-11-09 09:26:18" "COMPUTERNAME=T14"
+2021-09-24 11:46:38 \cdlgmainwidget.cpp:186 :: "Import Cfg File XML:D:\\SCIYON\\Modbus软件\\MThings\\MThings_Pack-0.2.0\\第二台电机参数设置.mthings" "OK"
+2021-09-24 11:46:38 \cportmgr.cpp:185 :: Creat New Port By Reg: "COM5"
+2021-09-24 11:46:38 \cdevicebase.cpp:35 :: "New Device Obj:[M]COM5-001" "COM5"
+2021-09-24 11:46:38 \cport_base.cpp:22 :: "New Port Obj:COM5" 0
+2021-09-24 11:46:38 \cport_com.cpp:59 :: "Port Open Failed by Invalid Port:COM5"
+2021-09-24 11:46:38 \cport_com.cpp:59 :: "Port Open Failed by Invalid Port:COM5"
+2021-09-24 11:46:38 \cdlgmainwidget.cpp:205 :: "Import Cfg File OK:D:\\SCIYON\\Modbus软件\\MThings\\MThings_Pack-0.2.0\\第二台电机参数设置.mthings"
+2021-09-24 11:46:54 \cdlgmainwidget.cpp:432 :: Abandon Cfg Changed!
+2021-09-24 11:46:54 \cdlgmainwidget.cpp:436 :: Exiting APP...
+2021-09-24 11:46:54 \cport_base.cpp:27 :: "Del Port Obj:COM5"
+2021-09-24 11:46:54 \cportthread.cpp:108 :: "Port Thread Exit:COM5"
+2021-09-24 11:46:54 \cportmgr.cpp:295 :: Del Port By Unreg: "COM5"
+2021-09-24 11:46:54 \cdevicebase.cpp:41 :: "Release Device Obj:[M]COM5-001" "COM5"
+2021-09-24 11:46:54 \cdlgmainwidget.cpp:440 :: Exit APP!
+2021-09-24 11:47:52 \cdlgmainwidget.cpp:432 :: Abandon Cfg Changed!
+2021-09-24 11:47:52 \cdlgmainwidget.cpp:436 :: Exiting APP...
+2021-09-24 11:47:52 \cport_base.cpp:27 :: "Del Port Obj:COM5"
+2021-09-24 11:47:52 \cportthread.cpp:108 :: "Port Thread Exit:COM5"
+2021-09-24 11:47:52 \cportmgr.cpp:295 :: Del Port By Unreg: "COM5"
+2021-09-24 11:47:52 \cdevicebase.cpp:41 :: "Release Device Obj:[M]COM5-001" "COM5"
+2021-09-24 11:47:52 \cdlgmainwidget.cpp:440 :: Exit APP!
+2021-09-24 11:47:54 \main.cpp:114 :: Codec For Locale:  "GB18030"
+2021-09-24 11:47:54 \cdlgmainwidget.cpp:29 :: Launch APP! "MThings   V0.2.0" "2020-11-09 09:26:18" "COMPUTERNAME=T14"
+2021-09-24 11:47:55 \cdlgmainwidget.cpp:186 :: "Import Cfg File XML:D:\\SCIYON\\Modbus软件\\MThings\\MThings_Pack-0.2.0\\第二台电机参数设置.mthings" "OK"
+2021-09-24 11:47:55 \cportmgr.cpp:185 :: Creat New Port By Reg: "COM5"
+2021-09-24 11:47:55 \cdevicebase.cpp:35 :: "New Device Obj:[M]COM5-001" "COM5"
+2021-09-24 11:47:55 \cport_base.cpp:22 :: "New Port Obj:COM5" 0
+2021-09-24 11:47:55 \cport_com.cpp:118 :: "Port Open Success:COM5" 0
+2021-09-24 11:47:55 \cdlgmainwidget.cpp:205 :: "Import Cfg File OK:D:\\SCIYON\\Modbus软件\\MThings\\MThings_Pack-0.2.0\\第二台电机参数设置.mthings"
+2021-09-24 21:00:09 \cdlgmainwidget.cpp:432 :: Abandon Cfg Changed!
+2021-09-24 21:00:09 \cdlgmainwidget.cpp:436 :: Exiting APP...
+2021-09-24 21:00:09 \cport_com.cpp:50 :: "Port Closed:COM5"
+2021-09-24 21:00:09 \cport_base.cpp:27 :: "Del Port Obj:COM5"
+2021-09-24 21:00:09 \cportthread.cpp:108 :: "Port Thread Exit:COM5"
+2021-09-24 21:00:09 \cportmgr.cpp:295 :: Del Port By Unreg: "COM5"
+2021-09-24 21:00:09 \cdevicebase.cpp:41 :: "Release Device Obj:[M]COM5-001" "COM5"
+2021-09-24 21:00:09 \cdlgmainwidget.cpp:440 :: Exit APP!
+2021-09-24 21:00:14 \main.cpp:114 :: Codec For Locale:  "GB18030"
+2021-09-24 21:00:14 \cdlgmainwidget.cpp:29 :: Launch APP! "MThings   V0.2.0" "2020-11-09 09:26:18" "COMPUTERNAME=T14"
+2021-09-24 21:00:14 \cdlgmainwidget.cpp:186 :: "Import Cfg File XML:D:\\SCIYON\\Modbus软件\\MThings\\MThings_Pack-0.2.0\\第二台电机参数设置.mthings" "OK"
+2021-09-24 21:00:14 \cportmgr.cpp:185 :: Creat New Port By Reg: "COM5"
+2021-09-24 21:00:14 \cdevicebase.cpp:35 :: "New Device Obj:[M]COM5-001" "COM5"
+2021-09-24 21:00:14 \cport_base.cpp:22 :: "New Port Obj:COM5" 0
+2021-09-24 21:00:14 \cport_com.cpp:118 :: "Port Open Success:COM5" 0
+2021-09-24 21:00:14 \cdlgmainwidget.cpp:205 :: "Import Cfg File OK:D:\\SCIYON\\Modbus软件\\MThings\\MThings_Pack-0.2.0\\第二台电机参数设置.mthings"
+2021-09-24 21:00:45 \cdlgmainwidget.cpp:335 :: "Save Cfg File OK:D:\\SCIYON\\Modbus软件\\MThings\\MThings_Pack-0.2.0\\第二台电机参数设置.mthings"
+2021-09-24 21:01:12 \cdlgmainwidget.cpp:359 :: "Save Other Cfg File OK:D:/SCIYON/Modbus软件/MThings/MThings_Pack-0.2.0/第二台电机参数设置2021-9-24.mthings"
+2021-09-24 21:01:14 \cdlgmainwidget.cpp:436 :: Exiting APP...
+2021-09-24 21:01:14 \cport_com.cpp:50 :: "Port Closed:COM5"
+2021-09-24 21:01:14 \cport_base.cpp:27 :: "Del Port Obj:COM5"
+2021-09-24 21:01:14 \cportthread.cpp:108 :: "Port Thread Exit:COM5"
+2021-09-24 21:01:14 \cportmgr.cpp:295 :: Del Port By Unreg: "COM5"
+2021-09-24 21:01:14 \cdevicebase.cpp:41 :: "Release Device Obj:[M]COM5-001" "COM5"
+2021-09-24 21:01:14 \cdlgmainwidget.cpp:440 :: Exit APP!
+2021-09-25 14:23:28 \main.cpp:114 :: Codec For Locale:  "GB18030"
+2021-09-25 14:23:28 \cdlgmainwidget.cpp:29 :: Launch APP! "MThings   V0.2.0" "2020-11-09 09:26:18" "COMPUTERNAME=T14"
+2021-09-25 14:23:28 \cdlgmainwidget.cpp:186 :: "Import Cfg File XML:D:/SCIYON/Modbus软件/MThings/MThings_Pack-0.2.0/第二台电机参数设置2021-9-24.mthings" "OK"
+2021-09-25 14:23:28 \cportmgr.cpp:185 :: Creat New Port By Reg: "COM5"
+2021-09-25 14:23:28 \cdevicebase.cpp:35 :: "New Device Obj:[M]COM5-001" "COM5"
+2021-09-25 14:23:28 \cport_base.cpp:22 :: "New Port Obj:COM5" 0
+2021-09-25 14:23:28 \cport_com.cpp:118 :: "Port Open Success:COM5" 0
+2021-09-25 14:23:28 \cdlgmainwidget.cpp:205 :: "Import Cfg File OK:D:/SCIYON/Modbus软件/MThings/MThings_Pack-0.2.0/第二台电机参数设置2021-9-24.mthings"
+2021-09-25 14:51:56 \cport_com.cpp:129 :: ERROR: COMPort ERROR: "COM5" QSerialPort::ResourceError
+2021-09-25 16:41:06 \cdlgmainwidget.cpp:436 :: Exiting APP...
+2021-09-25 16:41:06 \cport_com.cpp:50 :: "Port Closed:COM5"
+2021-09-25 16:41:06 \cport_base.cpp:27 :: "Del Port Obj:COM5"
+2021-09-25 16:41:06 \cportthread.cpp:108 :: "Port Thread Exit:COM5"
+2021-09-25 16:41:06 \cportmgr.cpp:295 :: Del Port By Unreg: "COM5"
+2021-09-25 16:41:06 \cdevicebase.cpp:41 :: "Release Device Obj:[M]COM5-001" "COM5"
+2021-09-25 16:41:06 \cdlgmainwidget.cpp:440 :: Exit APP!
+2021-09-27 14:12:57 \main.cpp:114 :: Codec For Locale:  "GB18030"
+2021-09-27 14:12:58 \cdlgmainwidget.cpp:29 :: Launch APP! "MThings   V0.2.0" "2020-11-09 09:26:18" "COMPUTERNAME=T14"
+2021-09-27 14:12:59 \cdlgmainwidget.cpp:186 :: "Import Cfg File XML:D:/SCIYON/Modbus软件/MThings/MThings_Pack-0.2.0/第二台电机参数设置2021-9-24.mthings" "OK"
+2021-09-27 14:12:59 \cportmgr.cpp:185 :: Creat New Port By Reg: "COM5"
+2021-09-27 14:12:59 \cdevicebase.cpp:35 :: "New Device Obj:[M]COM5-001" "COM5"
+2021-09-27 14:12:59 \cport_base.cpp:22 :: "New Port Obj:COM5" 0
+2021-09-27 14:12:59 \cport_com.cpp:118 :: "Port Open Success:COM5" 0
+2021-09-27 14:12:59 \cdlgmainwidget.cpp:205 :: "Import Cfg File OK:D:/SCIYON/Modbus软件/MThings/MThings_Pack-0.2.0/第二台电机参数设置2021-9-24.mthings"
+2021-09-27 14:20:41 \cdlgmainwidget.cpp:186 :: "Import Cfg File XML:D:\\SCIYON\\Modbus软件\\MThings\\MThings_Pack-0.2.0\\第二台电机参数设置2021-9-24.mthings" "OK"
+2021-09-27 14:20:41 \cport_com.cpp:50 :: "Port Closed:COM5"
+2021-09-27 14:20:41 \cport_base.cpp:27 :: "Del Port Obj:COM5"
+2021-09-27 14:20:41 \cportthread.cpp:108 :: "Port Thread Exit:COM5"
+2021-09-27 14:20:41 \cportmgr.cpp:295 :: Del Port By Unreg: "COM5"
+2021-09-27 14:20:41 \cdevicebase.cpp:41 :: "Release Device Obj:[M]COM5-001" "COM5"
+2021-09-27 14:20:41 \cportmgr.cpp:185 :: Creat New Port By Reg: "COM5"
+2021-09-27 14:20:41 \cdevicebase.cpp:35 :: "New Device Obj:[M]COM5-001" "COM5"
+2021-09-27 14:20:41 \cport_base.cpp:22 :: "New Port Obj:COM5" 0
+2021-09-27 14:20:41 \cport_com.cpp:118 :: "Port Open Success:COM5" 0
+2021-09-27 14:20:41 \cdlgmainwidget.cpp:205 :: "Import Cfg File OK:D:\\SCIYON\\Modbus软件\\MThings\\MThings_Pack-0.2.0\\第二台电机参数设置2021-9-24.mthings"
+2021-09-27 14:21:19 \cdlgmainwidget.cpp:186 :: "Import Cfg File XML:D:\\SCIYON\\Modbus软件\\MThings\\MThings_Pack-0.2.0\\第二台电机参数设置2021-9-24 - 副本.mthings" "OK"
+2021-09-27 14:21:19 \cport_com.cpp:50 :: "Port Closed:COM5"
+2021-09-27 14:21:19 \cport_base.cpp:27 :: "Del Port Obj:COM5"
+2021-09-27 14:21:19 \cportthread.cpp:108 :: "Port Thread Exit:COM5"
+2021-09-27 14:21:19 \cportmgr.cpp:295 :: Del Port By Unreg: "COM5"
+2021-09-27 14:21:19 \cdevicebase.cpp:41 :: "Release Device Obj:[M]COM5-001" "COM5"
+2021-09-27 14:21:19 \cportmgr.cpp:185 :: Creat New Port By Reg: "COM5"
+2021-09-27 14:21:19 \cdevicebase.cpp:35 :: "New Device Obj:[M]COM5-001" "COM5"
+2021-09-27 14:21:19 \cport_base.cpp:22 :: "New Port Obj:COM5" 0
+2021-09-27 14:21:19 \cport_com.cpp:118 :: "Port Open Success:COM5" 0
+2021-09-27 14:21:19 \cdlgmainwidget.cpp:205 :: "Import Cfg File OK:D:\\SCIYON\\Modbus软件\\MThings\\MThings_Pack-0.2.0\\第二台电机参数设置2021-9-24 - 副本.mthings"
+2021-09-27 15:32:11 \cdlgmainwidget.cpp:335 :: "Save Cfg File OK:D:\\SCIYON\\Modbus软件\\MThings\\MThings_Pack-0.2.0\\第二台电机参数设置2021-9-24 - 副本.mthings"
+2021-09-27 15:32:34 \cdlgmainwidget.cpp:359 :: "Save Other Cfg File OK:D:/SCIYON/Modbus软件/MThings/MThings_Pack-0.2.0/第一台电机参数设置2021-9-27.mthings"
+2021-09-27 16:49:06 \cport_com.cpp:129 :: ERROR: COMPort ERROR: "COM5" QSerialPort::ResourceError
+2021-09-27 16:49:31 \cdlgmainwidget.cpp:436 :: Exiting APP...
+2021-09-27 16:49:31 \cport_com.cpp:50 :: "Port Closed:COM5"
+2021-09-27 16:49:31 \cport_base.cpp:27 :: "Del Port Obj:COM5"
+2021-09-27 16:49:31 \cportthread.cpp:108 :: "Port Thread Exit:COM5"
+2021-09-27 16:49:31 \cportmgr.cpp:295 :: Del Port By Unreg: "COM5"
+2021-09-27 16:49:31 \cdevicebase.cpp:41 :: "Release Device Obj:[M]COM5-001" "COM5"
+2021-09-27 16:49:31 \cdlgmainwidget.cpp:440 :: Exit APP!
+2021-09-28 19:36:25 \main.cpp:114 :: Codec For Locale:  "GB18030"
+2021-09-28 19:36:25 \cdlgmainwidget.cpp:29 :: Launch APP! "MThings   V0.2.0" "2020-11-09 09:26:18" "COMPUTERNAME=T14"
+2021-09-28 19:36:25 \cdlgmainwidget.cpp:186 :: "Import Cfg File XML:D:/SCIYON/Modbus软件/MThings/MThings_Pack-0.2.0/第一台电机参数设置2021-9-27.mthings" "OK"
+2021-09-28 19:36:25 \cportmgr.cpp:185 :: Creat New Port By Reg: "COM5"
+2021-09-28 19:36:25 \cdevicebase.cpp:35 :: "New Device Obj:[M]COM5-001" "COM5"
+2021-09-28 19:36:25 \cport_base.cpp:22 :: "New Port Obj:COM5" 0
+2021-09-28 19:36:25 \cport_com.cpp:59 :: "Port Open Failed by Invalid Port:COM5"
+2021-09-28 19:36:25 \cdlgmainwidget.cpp:205 :: "Import Cfg File OK:D:/SCIYON/Modbus软件/MThings/MThings_Pack-0.2.0/第一台电机参数设置2021-9-27.mthings"
+2021-09-28 19:41:16 \cdlgmainwidget.cpp:436 :: Exiting APP...
+2021-09-28 19:41:16 \cport_base.cpp:27 :: "Del Port Obj:COM5"
+2021-09-28 19:41:16 \cportthread.cpp:108 :: "Port Thread Exit:COM5"
+2021-09-28 19:41:16 \cportmgr.cpp:295 :: Del Port By Unreg: "COM5"
+2021-09-28 19:41:16 \cdevicebase.cpp:41 :: "Release Device Obj:[M]COM5-001" "COM5"
+2021-09-28 19:41:16 \cdlgmainwidget.cpp:440 :: Exit APP!
+2021-09-29 17:38:23 \main.cpp:114 :: Codec For Locale:  "GB18030"
+2021-09-29 17:38:23 \cdlgmainwidget.cpp:29 :: Launch APP! "MThings   V0.2.0" "2020-11-09 09:26:18" "COMPUTERNAME=T14"
+2021-09-29 17:38:23 \cdlgmainwidget.cpp:186 :: "Import Cfg File XML:D:/SCIYON/Modbus软件/MThings/MThings_Pack-0.2.0/第一台电机参数设置2021-9-27.mthings" "OK"
+2021-09-29 17:38:23 \cportmgr.cpp:185 :: Creat New Port By Reg: "COM5"
+2021-09-29 17:38:23 \cdevicebase.cpp:35 :: "New Device Obj:[M]COM5-001" "COM5"
+2021-09-29 17:38:23 \cport_base.cpp:22 :: "New Port Obj:COM5" 0
+2021-09-29 17:38:23 \cport_com.cpp:59 :: "Port Open Failed by Invalid Port:COM5"
+2021-09-29 17:38:23 \cdlgmainwidget.cpp:205 :: "Import Cfg File OK:D:/SCIYON/Modbus软件/MThings/MThings_Pack-0.2.0/第一台电机参数设置2021-9-27.mthings"
+2021-09-29 18:01:26 \cdlgmainwidget.cpp:436 :: Exiting APP...
+2021-09-29 18:01:26 \cport_base.cpp:27 :: "Del Port Obj:COM5"
+2021-09-29 18:01:26 \cportthread.cpp:108 :: "Port Thread Exit:COM5"
+2021-09-29 18:01:26 \cportmgr.cpp:295 :: Del Port By Unreg: "COM5"
+2021-09-29 18:01:26 \cdevicebase.cpp:41 :: "Release Device Obj:[M]COM5-001" "COM5"
+2021-09-29 18:01:26 \cdlgmainwidget.cpp:440 :: Exit APP!
+2021-09-29 18:03:32 \main.cpp:114 :: Codec For Locale:  "GB18030"
+2021-09-29 18:03:32 \cdlgmainwidget.cpp:29 :: Launch APP! "MThings   V0.2.0" "2020-11-09 09:26:18" "COMPUTERNAME=T14"
+2021-09-29 18:03:32 \cdlgmainwidget.cpp:186 :: "Import Cfg File XML:D:/SCIYON/Modbus软件/MThings/MThings_Pack-0.2.0/第一台电机参数设置2021-9-27.mthings" "OK"
+2021-09-29 18:03:32 \cportmgr.cpp:185 :: Creat New Port By Reg: "COM5"
+2021-09-29 18:03:32 \cdevicebase.cpp:35 :: "New Device Obj:[M]COM5-001" "COM5"
+2021-09-29 18:03:32 \cport_base.cpp:22 :: "New Port Obj:COM5" 0
+2021-09-29 18:03:32 \cport_com.cpp:59 :: "Port Open Failed by Invalid Port:COM5"
+2021-09-29 18:03:32 \cdlgmainwidget.cpp:205 :: "Import Cfg File OK:D:/SCIYON/Modbus软件/MThings/MThings_Pack-0.2.0/第一台电机参数设置2021-9-27.mthings"
+2021-09-29 18:07:42 \cdlgmainwidget.cpp:436 :: Exiting APP...
+2021-09-29 18:07:42 \cport_base.cpp:27 :: "Del Port Obj:COM5"
+2021-09-29 18:07:42 \cportthread.cpp:108 :: "Port Thread Exit:COM5"
+2021-09-29 18:07:42 \cportmgr.cpp:295 :: Del Port By Unreg: "COM5"
+2021-09-29 18:07:42 \cdevicebase.cpp:41 :: "Release Device Obj:[M]COM5-001" "COM5"
+2021-09-29 18:07:42 \cdlgmainwidget.cpp:440 :: Exit APP!
+2021-09-30 10:01:16 \main.cpp:114 :: Codec For Locale:  "GB18030"
+2021-09-30 10:01:16 \cdlgmainwidget.cpp:29 :: Launch APP! "MThings   V0.2.0" "2020-11-09 09:26:18" "COMPUTERNAME=T14"
+2021-09-30 10:01:20 \cdlgmainwidget.cpp:186 :: "Import Cfg File XML:D:/SCIYON/Modbus软件/MThings/MThings_Pack-0.2.0/第一台电机参数设置2021-9-27.mthings" "OK"
+2021-09-30 10:01:20 \cportmgr.cpp:185 :: Creat New Port By Reg: "COM5"
+2021-09-30 10:01:20 \cdevicebase.cpp:35 :: "New Device Obj:[M]COM5-001" "COM5"
+2021-09-30 10:01:20 \cdevicebase.cpp:35 :: "New Device Obj:[M]COM5-001" "COM5"
+2021-09-30 10:01:20 \cport_base.cpp:22 :: "New Port Obj:COM5" 0
+2021-09-30 10:01:20 \cport_base.cpp:22 :: "New Port Obj:COM5" 0
+2021-09-30 10:01:20 \cport_com.cpp:59 :: "Port Open Failed by Invalid Port:COM5"
+2021-09-30 10:01:21 \cdlgmainwidget.cpp:205 :: "Import Cfg File OK:D:/SCIYON/Modbus软件/MThings/MThings_Pack-0.2.0/第一台电机参数设置2021-9-27.mthings"
+2021-09-30 10:02:56 \cdlgmainwidget.cpp:432 :: Abandon Cfg Changed!
+2021-09-30 10:02:56 \cdlgmainwidget.cpp:436 :: Exiting APP...
+2021-09-30 10:02:56 \cport_base.cpp:27 :: "Del Port Obj:COM5"
+2021-09-30 10:02:56 \cportthread.cpp:108 :: "Port Thread Exit:COM5"
+2021-09-30 10:02:56 \cportmgr.cpp:295 :: Del Port By Unreg: "COM5"
+2021-09-30 10:02:56 \cdevicebase.cpp:41 :: "Release Device Obj:[M]COM5-001" "COM5"
+2021-09-30 10:02:56 \cdlgmainwidget.cpp:440 :: Exit APP!
+2021-09-30 10:03:40 \cdlgmainwidget.cpp:432 :: Abandon Cfg Changed!
+2021-09-30 10:03:40 \cdlgmainwidget.cpp:436 :: Exiting APP...
+2021-09-30 10:03:40 \cport_base.cpp:27 :: "Del Port Obj:COM5"
+2021-09-30 10:03:40 \cportthread.cpp:108 :: "Port Thread Exit:COM5"
+2021-09-30 10:03:40 \cportmgr.cpp:295 :: Del Port By Unreg: "COM5"
+2021-09-30 10:03:40 \cdevicebase.cpp:41 :: "Release Device Obj:[M]COM5-001" "COM5"
+2021-09-30 10:03:40 \cdlgmainwidget.cpp:440 :: Exit APP!
